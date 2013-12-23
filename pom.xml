@@ -33,16 +33,16 @@
       </plugin>
     </plugins>
   </build>
-  <distributionManagement>
+    <distributionManagement>
 	<repository>
-		<id>sky-releases</id>
+		<id>releaseRepo</id>
 		<name>SKY Release Repository</name>
-		<url>dav:${sky.repo.base}/sky-releases</url>
+		<url>https://github.com/fmiralles/releaseRepo</url>
 	</repository>
 	<snapshotRepository>
-		<id>sky-snapshots</id>
+		<id>snapshotsRepo</id>
 		<name>SKY Snapshot Repository</name>
-		<url>dav:${sky.repo.base}/sky-snapshots</url>
+		<url>https://github.com/fmiralles/snapshotsRepo</url>
 	</snapshotRepository>
 </distributionManagement>
 </project>
