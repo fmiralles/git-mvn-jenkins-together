@@ -36,7 +36,7 @@
     <distributionManagement>
 		<repository>
     		<id>bintray</id>
-    		<url>https://api.bintray.com/maven/fmiralles/git-mvn-jenkins-together/</url>
+    		<url>https://api.bintray.com/maven/fmiralles/git-mvn-jenkins-together</url>
   		</repository>
 </distributionManagement>
 </project>
