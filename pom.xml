@@ -34,15 +34,9 @@
     </plugins>
   </build>
     <distributionManagement>
-	<repository>
-		<id>releaseRepo</id>
-		<name>SKY Release Repository</name>
-		<url>https://github.com/fmiralles/releaseRepo</url>
-	</repository>
-	<snapshotRepository>
-		<id>snapshotsRepo</id>
-		<name>SKY Snapshot Repository</name>
-		<url>https://github.com/fmiralles/snapshotsRepo</url>
-	</snapshotRepository>
+		<repository>
+    		<id>bintray</id>
+    		<url>https://api.bintray.com/maven/fmiralles/git-mvn-jenkins-together/</url>
+  		</repository>
 </distributionManagement>
 </project>
