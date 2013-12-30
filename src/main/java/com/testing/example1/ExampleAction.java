@@ -10,6 +10,7 @@ public class ExampleAction {
 		logger.info( "Example action executed 1" );        
 		logger.info( "Example action executed 2" );        
 		logger.info( "Example action executed 3" );        
+		logger.info( "Example action executed 4" );        
 		return true;    
 	}
 } 
