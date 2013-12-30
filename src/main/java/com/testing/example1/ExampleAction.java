@@ -9,6 +9,7 @@ public class ExampleAction {
 	public boolean execute() {        
 		logger.info( "Example action executed 1" );        
 		logger.info( "Example action executed 2" );        
+		logger.info( "Example action executed 3" );        
 		return true;    
 	}
 } 
