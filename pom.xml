@@ -3,7 +3,7 @@
   <groupId>com.testing</groupId>
   <artifactId>git-mvn-jenkins-together</artifactId>
   <packaging>war</packaging>
-  <version>1.2-SNAPSHOT</version>
+  <version>1.2</version>
   <name>git-mvn-jenkins-together Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
