@@ -11,6 +11,7 @@ public class ExampleAction {
 		logger.info( "Example action executed 2" );        
 		logger.info( "Example action executed 3" );        
 		logger.info( "Example action executed 4" );        
+		logger.info( "Example action executed 5" );        
 		return true;    
 	}
 } 
