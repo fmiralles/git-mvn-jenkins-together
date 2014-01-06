@@ -19,9 +19,9 @@
 		<version>1.5.0</version>
 	</dependency>
   </dependencies>
-<!--    <scm> -->
-<!--     <connection>scm:git:file://C:/workspace/eclipse-juno/workspace/git-mvn-jenkins-together/</developerConnection> -->
-<!--   </scm> -->
+   <scm>
+    <connection>scm:git:file://C:/workspace/eclipse-juno/workspace/git-mvn-jenkins-together/</connection>
+  </scm>
   <build>
     <finalName>git-mvn-jenkins-together</finalName>
     <plugins>
